@@ -111,6 +111,7 @@ module.exports = {
     },
   },
   resolveLoader: {
-    modules: [path.resolve(path.join(__dirname, '..', '..', 'node_modules'))],
+    modules: [path.resolve(path.join(process.cwd(), 'node_modules'))],
+//     modules: [path.resolve(path.join(__dirname, '..', '..', 'node_modules'))],
   },
 };
