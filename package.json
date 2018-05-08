@@ -37,7 +37,7 @@
     }
   },
   "bin": {
-    "generate-config": "./bin/generate-config.js"
+    "generate-config": "bin/generate-config.js"
   },
   "scripts": {
     "clean": "node scripts/clean-modules/index.js",
@@ -83,12 +83,10 @@
     "redux": "^3.6.0",
     "terra-application-layout": "^1.0.0",
     "terra-base": "^3.3.0",
-    "terra-button": "^2.0.1",
     "terra-i18n": "^2.3.0",
     "terra-icon": "^2.0.1",
     "terra-image": "^2.0.1",
     "terra-markdown": "^2.0.0",
-    "terra-slide-panel": "^2.0.1",
     "terra-theme-provider": "^2.0.0",
     "terra-toolkit": "^3.0.0",
     "webpack-merge": "^4.1.2",
