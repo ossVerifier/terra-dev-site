@@ -6,6 +6,11 @@ Unreleased
 ### Fixed
 * Fix page generation error when source or dist options are not provided when using the generatePages configuration option
 
+2.4.0 - (August 29, 2018)
+----------
+### Fixed
+* Fix page generation error when source or dist options are not provided when using the generatePages configuration option
+
 2.3.0 - (August 21, 2018)
 ----------
 ### Changed
